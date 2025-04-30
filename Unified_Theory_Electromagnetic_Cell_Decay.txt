@@ -4,7 +4,7 @@ Brock Michael Weaver
 The Invisible University – Project Zarathustra
 
 Abstract:
-This manuscript presents a synthesis of two independent but related investigations into the effects of electromagnetic (EM) fields on biological matter. Our primary hypothesis is that electromagnetic energy interacts not with neurological networks directly, but with the conductive elements within biological cells, accelerating their reactive decay toward elemental carbon. Over a six-month study, we recorded electrical resistance and voltage in plant tissue across environmental EM exposures, identifying d...
+This manuscript presents a synthesis of two independent but related investigations into the effects of electromagnetic (EM) fields on biological matter. Our primary hypothesis is that electromagnetic energy interacts not with neurological networks directly, but with the conductive elements within biological cells, accelerating their reactive decay toward elemental carbon. Over a six-month study, we recorded electrical resistance and voltage in plant tissue across environmental EM exposures, identifying distinct patterns of resistance decay that correlate with environmental EM cycles, such as geomagnetic variation and human-generated field interference.
 
 Introduction:
 Biological systems are constructed from a periodic table of elements, many of which have known half-lives and decay paths back toward stable configurations—chiefly carbon. When exposed to persistent electromagnetic fields, the conductive pathways within cells respond not randomly, but thermodynamically. Drawing from both thermodynamic and electromotive principles, we propose that biological decay under EM stress is measurable, predictable, and in line with entropy generation.
