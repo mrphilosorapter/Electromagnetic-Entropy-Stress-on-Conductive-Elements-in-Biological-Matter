@@ -1,2 +1,12 @@
-# Electromagnetic-Entropy-Stress-on-Conductive-Elements-in-Biological-Matter
-Empirical study of electromagnetic field effects on plant-based conductors. Introduces the ΔD entropy decay formula and includes data from dual-site field tests and Faraday cage–magnetron experiments. Part of Project Zarathustra by Brock Michael Weaver, The Invisible University.
+# Project Zarathustra
+
+This repository contains the scientific manuscript for *The Theory of Electromagnetic Entropy on Conductive Elements of Biological Matter* by Brock Michael Weaver, conducted under The Invisible University.
+
+## Manuscript
+
+- `Project_Zarathustra_Manuscript_Updated.txt` — full updated manuscript with appendix
+
+## License
+
+This work is open for academic and educational use.
+
