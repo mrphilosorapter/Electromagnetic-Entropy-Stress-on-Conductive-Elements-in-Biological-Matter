@@ -1,0 +1,48 @@
+
+The Unified Theory of Electromagnetic Entropy on Cellular Decay
+Brock Michael Weaver
+The Invisible University – Project Zarathustra
+
+Abstract:
+This manuscript presents a synthesis of two independent but related investigations into the effects of electromagnetic (EM) fields on biological matter. Our primary hypothesis is that electromagnetic energy interacts not with neurological networks directly, but with the conductive elements within biological cells, accelerating their reactive decay toward elemental carbon. Over a six-month study, we recorded electrical resistance and voltage in plant tissue across environmental EM exposures, identifying d...
+
+Introduction:
+Biological systems are constructed from a periodic table of elements, many of which have known half-lives and decay paths back toward stable configurations—chiefly carbon. When exposed to persistent electromagnetic fields, the conductive pathways within cells respond not randomly, but thermodynamically. Drawing from both thermodynamic and electromotive principles, we propose that biological decay under EM stress is measurable, predictable, and in line with entropy generation.
+
+Methods:
+Data were collected over 14 days in 8-hour blocks using dual multimeter probes connected to living plant tissues. Two measurement locations—TestSpot (TP) and Hotspot (HS)—recorded voltage (mVdc) and resistance (mΩ) every 30 minutes. Environmental variables included temperature, humidity, and estimated population density (based on human traffic via mobile device count).
+
+Additionally, a controlled experiment was conducted within a Faraday cage using a magnetron to test EM influence in isolation. Resistance decay rates were observed under shielded versus non-shielded conditions.
+
+Formula Framework:
+We introduced multiple key equations throughout this work, now unified below:
+
+1. Entropy Decay Metric:
+ΔD = E·q / (R_bio·t)
+
+2. Generalized Stress Function (Z10):
+F_z·φ = (ΔΣ · √(q_{½} · q_{½}) · X · T_a · D_a) / (T² · f_D · f_T) · P
+
+Where:
+- ΔΣ = resistance differential
+- q_{½} = elemental charge interaction
+- X = decay multiplier constant
+- T = time interval
+- f_D, f_T = frequency coefficients (data & time)
+- P = population density
+- R_bio = measured resistance
+- t = elapsed exposure time
+
+These formulas capture entropy accumulation via both environmental energy input and population-modulated field density.
+
+Results:
+Empirical data showed repeatable trends: resistance consistently dropped from mid-morning through late afternoon. This decay pattern mirrored an increase in ΔD, affirming the hypothesis that entropy builds in line with EM exposure duration and intensity. Sites with higher population density (HS) showed sharper resistance drops than less active zones (TP), correlating EM field strength with conductive decay.
+
+Discussion:
+The decay of cellular conductivity under EM field exposure parallels principles of open-system thermodynamics. The idea that elements strive toward carbon, with external energy accelerating that path, reframes biological degradation as a function of environmental entropy pressure. The ΔD and Z10 formulas provide a measurable, testable structure for evaluating such decay.
+
+Conclusion:
+This unified theory connects electromagnetic field exposure with measurable cellular decay. It bypasses neurological models and focuses instead on the conductive components of biological tissue, where reactive decay and elemental entropy can be monitored. These insights offer a foundation for future studies in bioelectromagnetic integrity and environmental decay modeling.
+
+Project Zarathustra
+The Invisible University
