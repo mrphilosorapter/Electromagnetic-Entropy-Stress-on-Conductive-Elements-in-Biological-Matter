@@ -1,0 +1,37 @@
+
+The Theory of Electromagnetic Entropy on Conductive Elements of Biological Matter
+Brock Michael Weaver
+The Invisible University – Project Zarathustra
+
+Abstract:
+We present a six-month empirical study (April–October 2020) of electromagnetic (EM) field effects on conductive biological materials. Using dual synchronized sensors at two sites, we recorded continuous resistance data on plant-based conductors under ambient EM exposure. We identify a consistent diurnal trend – a steady decline in resistance from midday into evening – and minor synchronized fluctuations, indicating influence from natural EM cycles rather than random noise. To quantify these effects, we introduce a decay metric ΔD defined by the formula ΔD = E·q / (R_bio·t), linking field energy and time to resistance change. Our findings support a thermodynamic model in which cellular energy dissipation manifests as entropy variation. This manuscript situates these results within broader studies of EM bioeffects and circadian entrainment and provides a formal theoretical framework supported by Project Zarathustra’s data.
+
+Introduction:
+Organisms have evolved within the Earth’s natural electromagnetic environment. Recent research indicates these background fields can entrain circadian rhythms and influence physiology. Migratory animals and even humans may synchronize biological clocks to subtle EM variations. In parallel, anthropogenic EM sources continue to rise. In this context, we investigated plant-based biological conductors as sensitive indicators of ambient EM flux. Drawing on thermodynamic theory, we hypothesize that EM field exposure induces measurable entropy shifts. This work was carried out under The Invisible University’s “Project Zarathustra.”
+
+Methods:
+A six-month field study was conducted using two synchronized sensor rigs placed 10 km apart in natural environments. Each rig used electrodes contacting live plant stems and logged electrical resistance every minute. Local time, temperature, geomagnetic index, and solar activity were logged in parallel. No artificial EM sources were used; all exposure was ambient. Data were analyzed for temporal patterns and correlations.
+
+To quantify entropy decay, we define:
+
+ΔD = E·q / (R_bio·t)
+
+Where:
+E = incident field energy
+q = effective influenced charge
+R_bio = instantaneous biological resistance
+t = elapsed exposure time
+
+Results:
+Both sites revealed synchronized diurnal resistance curves: rising from morning to midday, then declining through evening. Fluctuations were mirrored at both sites, indicating shared environmental drivers. ΔD values tracked time-of-day, increasing from midday to evening in parallel with declining resistance. Correlation between ΔD and time-of-day (R² > 0.85) was stronger than with temperature or light.
+
+Discussion:
+The synchronized, repeatable patterns support the electromagnetic entropy hypothesis. The resistance decay and entropy growth align with known biological dissipation processes. ΔD = E·q / (R_bio·t) effectively models these dynamics. Preliminary correlation with regional fatigue/headache survey data suggests possible physiological relevance.
+
+Appendix A: Controlled EM Exposure
+In a secondary experiment, plants were placed inside a Faraday cage with a controlled microwave source (magnetron). Resistance decay was significantly accelerated under isolated, high-intensity EM exposure. This supports the theory that ambient EM energy contributes to measurable biological entropy.
+
+Conclusion:
+This study demonstrates that conductive biological materials exhibit measurable diurnal resistance decay patterns driven by natural EM field exposure. These findings support a thermodynamic framework for EM-biological interaction and introduce ΔD as a testable entropy metric.
+
+Project Zarathustra – The Invisible University
